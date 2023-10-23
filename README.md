@@ -38,6 +38,9 @@ Resets the timer.
 ### Complexity
 Constant.
 
+## Remark
+Minimum version of the standard `C++17`
+
 # Link for cloning the repository:octocat:
 `git clone https://github.com/Kuznetsov-Artyom/Calculator.git`
 
